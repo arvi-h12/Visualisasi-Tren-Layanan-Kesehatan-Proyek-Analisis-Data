@@ -15,11 +15,13 @@ Proyek ini merupakan studi analisis data pada sektor layanan kesehatan menggunak
 - Lonjakan pasien terjadi di tahun 2020 (kemungkinan efek COVID-19)
 
 🔗 **Link Dashboard Looker Studio**  
-[Visualisasi Proyek Kesehatan](https://lookerstudio.google.com/reporting/a22b4e00-0306-40d4-a229-8ead9383d229)
+[Visualisasi Proyek Kesehatan]
+(https://lookerstudio.google.com/reporting/a22b4e00-0306-40d4-a229-8ead9383d229)
+(https://medium.com/@arvihasanah12/visualizing-healthcare-trends-a-data-analysis-project-1055f5d7b8f6)
+(https://www.linkedin.com/in/arvi-hasanah/)
 
 🛠 **Tools & Teknologi:**  
 - Google Looker Studio  
 - Google Sheets / BigQuery (opsional)
 - Git & GitHub
-
-📂 **Struktur File:**
+- meidum
